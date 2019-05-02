@@ -12,7 +12,8 @@
 > 2. Number of Channels = Number of Kernels applied on the image
 > 3. Each channel carries each features. RGB image has 3 channels where each channel carries the respective color values
 
-
+Representation via an image
+<img src="https://github.com/sanjaykrishnanrs/Project-1/blob/master/Kernels%20%26%20Channels.png">
 
 # 3*3 Kernels
 
